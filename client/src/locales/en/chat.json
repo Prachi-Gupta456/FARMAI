@@ -1,0 +1,8 @@
+{
+    "chat":{
+         "edit":"Edit",
+         "newChat":"New Chat",
+         "askSomething":"Ask something...",
+         "fallbackResponse":"Sorry, I couldn't get an answer right now. Please try again in a moment."
+    }
+}

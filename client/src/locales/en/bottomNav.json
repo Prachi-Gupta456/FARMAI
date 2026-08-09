@@ -1,0 +1,9 @@
+{
+  "bottomNav": {
+    "profile": "Profile",
+    "chat": "Chat",
+    "home": "Home",
+    "diary": "Diary",
+    "history": "History"
+  }
+}

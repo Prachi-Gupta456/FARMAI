@@ -1,0 +1,104 @@
+{
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Manage your profile and preferences",
+
+    "profile": {
+      "assistantName": "AI Smart Farming Assistant",
+      "defaultName": "Farmer"
+    },
+
+    "location": {
+      "title": "Farm Location",
+      "description": "Used for weather forecasts and nearby government schemes.",
+      "useCurrentLocation": "Use Current Location",
+      "manualEntry": "OR ENTER MANUALLY",
+      "state": "State",
+      "statePlaceholder": "Select or type your state",
+      "district": "District",
+      "districtPlaceholder": "Enter your district",
+
+      "errors": {
+        "geoNotSupported": "Geolocation is not supported by your browser.",
+        "permissionDenied": "Location permission denied. Please enable it in your browser settings.",
+        "positionUnavailable": "Location information unavailable.",
+        "timeout": "Location request timed out.",
+        "unknown": "Something went wrong getting your location."
+      }
+    },
+
+    "soil": {
+      "title": "Soil Information",
+      "description": "Helps AI recommend suitable crops and fertilizers.",
+
+      "types": {
+        "loamy": "Loamy",
+        "sandy": "Sandy",
+        "clayey": "Clayey",
+        "silty": "Silty",
+        "black": "Black",
+        "red": "Red"
+      }
+    },
+
+    "water": {
+      "title": "Water Source",
+      "description": "Select all that apply — helps AI give accurate irrigation advice.",
+
+      "sources": {
+        "canal": "Canal",
+        "borewell": "Borewell",
+        "rainfed": "Rainfed",
+        "drip": "Drip",
+        "tubewell": "Tube well"
+      }
+    },
+
+    "farmSize": {
+      "title": "Farm Size",
+      "description": "Used to give scaled recommendations.",
+      "placeholder": "Enter farm size",
+      "unit": "Acres"
+    },
+
+    "previousCrops": {
+      "title": "Previous Crops",
+      "description": "What have you grown before? Helps AI recommend better crop rotations.",
+      "placeholder": "Other crop not listed above…",
+      "add": "Add",
+
+      "common": {
+        "wheat": "Wheat",
+        "rice": "Rice",
+        "maize": "Maize",
+        "sugarcane": "Sugarcane",
+        "cotton": "Cotton",
+        "potato": "Potato",
+        "pulses": "Pulses",
+        "mustard": "Mustard"
+      }
+    },
+
+    "language": {
+      "title": "Language",
+      "description": "Choose your preferred language.",
+
+      "options": {
+        "english": "English",
+        "hindi": "Hindi",
+        "marathi": "Marathi",
+        "kannada": "Kannada",
+        "tamil": "Tamil",
+        "telugu": "Telugu",
+        "bengali": "Bengali"
+      }
+    },
+
+    "buttons": {
+      "save": "Save Changes",
+      "saving": "Saving...",
+      "home": "Home",
+      "logout": "Logout"
+    }
+  }
+}

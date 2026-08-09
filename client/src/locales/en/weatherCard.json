@@ -1,0 +1,9 @@
+{
+  "weatherCard": {
+    "live": "Live",
+    "todayWeather": "Today's Weather",
+    "today": "Today",
+    "rainChance": "Rain Chance",
+    "now": "NOW"
+  }
+}

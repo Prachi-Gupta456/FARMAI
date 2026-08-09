@@ -1,0 +1,26 @@
+{
+  "dynamicInput": {
+    "seasonTitle": "વર્તમાન ઋતુ",
+    "cropTitle": "તમે કયા પાક ઉગાડી રહ્યા છો?",
+    "customCropPlaceholder": "ઉપર સૂચિમાં ન હોય તો પાકનું નામ લખો…",
+    "continue": "આગળ વધો",
+
+    "seasons": {
+      "kharif": "ખરીફ",
+      "rabi": "રબી",
+      "zaid": "ઝાયદ"
+    },
+
+    "crops": {
+      "rice": "ચોખા",
+      "wheat": "ઘઉં",
+      "maize": "મકાઈ",
+      "cotton": "કપાસ",
+      "sugarcane": "શેરડી",
+      "potato": "બટાકા",
+      "tomato": "ટામેટા",
+      "onion": "ડુંગળી",
+      "none": "કોઈ નહીં"
+    }
+  }
+}

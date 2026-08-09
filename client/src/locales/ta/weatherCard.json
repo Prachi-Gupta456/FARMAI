@@ -1,0 +1,9 @@
+{
+  "weatherCard": {
+    "live": "நேரலை",
+    "todayWeather": "இன்றைய வானிலை",
+    "today": "இன்று",
+    "rainChance": "மழை வாய்ப்பு",
+    "now": "இப்போது"
+  }
+}

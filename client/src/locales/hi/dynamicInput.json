@@ -1,0 +1,26 @@
+{
+  "dynamicInput": {
+    "seasonTitle": "वर्तमान मौसम",
+    "cropTitle": "आप कौन-कौन सी फसलें उगा रहे हैं?",
+    "customCropPlaceholder": "ऊपर सूचीबद्ध नहीं है तो फसल का नाम लिखें…",
+    "continue": "आगे बढ़ें",
+
+    "seasons": {
+      "kharif": "खरीफ",
+      "rabi": "रबी",
+      "zaid": "ज़ायद"
+    },
+
+    "crops": {
+      "rice": "धान",
+      "wheat": "गेहूं",
+      "maize": "मक्का",
+      "cotton": "कपास",
+      "sugarcane": "गन्ना",
+      "potato": "आलू",
+      "tomato": "टमाटर",
+      "onion": "प्याज",
+      "none": "कोई नहीं"
+    }
+  }
+}

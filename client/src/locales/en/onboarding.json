@@ -1,0 +1,36 @@
+{
+  "onboarding": {
+    "languageStep": {
+      "title": "Language",
+      "subtitle": "Choose your preferred language.",
+      "continue": "Continue"
+    },
+    "locationStep": {
+      "title": "Farm Location",
+      "subtitle": "Used for weather forecasts and nearby government schemes.",
+      "useCurrentLocation": "Use Current Location",
+      "orEnterManually": "OR ENTER MANUALLY",
+      "stateLabel": "State",
+      "statePlaceholder": "Select or type your state",
+      "districtLabel": "District",
+      "districtPlaceholder": "Enter your district",
+      "back": "Back",
+      "finishSetup": "Finish Setup",
+      "saving": "Saving..."
+    },
+    "errors": {
+      "geoNotSupported": "Geolocation is not supported by your browser",
+      "permissionDenied": "Location permission denied. Please enable it in your browser settings.",
+      "positionUnavailable": "Location information unavailable.",
+      "timeout": "Location request timed out.",
+      "generic": "Something went wrong getting your location.",
+      "provideStateDistrict": "Please provide your state and district",
+      "saveFailed": "Something went wrong.."
+    },
+    "successStep": {
+      "title": "Setup Complete 🎉",
+      "description": "Your FarmAI profile has been created successfully. We're preparing your personalized farming dashboard.",
+      "redirecting": "Redirecting..."
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "dashboard": {
+    "subtitle": "Your farm is ready for today's advice",
+    "myFarm": {
+      "title": "My Farm",
+      "subtitle": "Smart farming profile",
+      "edit": "Edit",
+      "description": "FarmAI uses your farm details to provide personalized crop, weather and farming advice.",
+      "stateFallback": "State",
+      "districtFallback": "District",
+      "soilFallback": "Soil",
+      "contextActive": "FarmAI context active"
+    },
+    "askFarmAI": {
+      "title": "Ask FarmAI",
+      "subtitle": "Voice or photo — minimal typing",
+      "feature": "Get instant crop, disease & farming guidance"
+    },
+    "recent": {
+      "title": "Recent",
+      "viewAll": "View all",
+      "loading": "Loading your recent questions…",
+      "empty": "No questions yet — ask FarmAI above to get started."
+    },
+    "insights": {
+      "title": "AI Farm Insights",
+      "subtitle": "Personalized recommendations for today",
+      "summaryTitle": "Today's Summary",
+      "insightLabel": "Insight"
+    }
+  }
+}

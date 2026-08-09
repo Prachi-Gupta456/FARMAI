@@ -1,0 +1,26 @@
+{
+  "dynamicInput": {
+    "seasonTitle": "বর্তমান মৌসুম",
+    "cropTitle": "আপনি কোন কোন ফসল চাষ করছেন?",
+    "customCropPlaceholder": "উপরের তালিকায় না থাকলে ফসলের নাম লিখুন…",
+    "continue": "এগিয়ে যান",
+
+    "seasons": {
+      "kharif": "খরিফ",
+      "rabi": "রবি",
+      "zaid": "জায়েদ"
+    },
+
+    "crops": {
+      "rice": "ধান",
+      "wheat": "গম",
+      "maize": "ভুট্টা",
+      "cotton": "তুলা",
+      "sugarcane": "আখ",
+      "potato": "আলু",
+      "tomato": "টমেটো",
+      "onion": "পেঁয়াজ",
+      "none": "কোনোটিই নয়"
+    }
+  }
+}

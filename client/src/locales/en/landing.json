@@ -1,0 +1,86 @@
+{
+  "landing":{
+    "header": {
+    "appName": "FarmAI",
+    "tagline": "AI Smart Farming Assistant",
+    "language": "English",
+    "signup": "Sign Up"
+  },
+
+  "hero": {
+    "badge": "Trusted by farmers across India",
+    "floatingCard": "One assistant for weather, crops, pests, irrigation, and more",
+    "title": "Your AI farming expert, in your pocket",
+    "description": "Ask by voice, photo, or text and get simple, trusted advice for crops, weather, irrigation, fertilizer, pests, and market prices.",
+    "primaryButton": "Get Started Free",
+    "secondaryButton": "Watch How It Works"
+  },
+
+  "demoChat": {
+    "question": "Why are my tomato leaves turning yellow?",
+    "typing": "AI is typing",
+    "answer": "It may be nutrient stress or early disease. Upload a leaf photo or tap the mic for a faster diagnosis."
+  },
+
+  "capabilities": {
+    "title": "What FarmAI can do",
+    "subtitle": "Swipe to explore"
+  },
+
+  "howItWorks": {
+    "title": "How it works",
+    "step1": {
+      "title": "Ask by voice or photo",
+      "description": "Speak naturally or upload a crop image."
+    },
+    "step2": {
+      "title": "AI picks the right expert",
+      "description": "A smart router sends your question to the best agent."
+    },
+    "step3": {
+      "title": "Get simple advice",
+      "description": "Clear steps in your language, ready to act on."
+    }
+  },
+
+  "stats": {
+    "agents": "AI Experts",
+    "languages": "Languages",
+    "support": "24/7 Help"
+  },
+
+  "testimonials": {
+    "title": "What farmers are saying",
+    "carousel": "Carousel",
+    "voice": {
+      "title": "Voice Assistant",
+      "subtitle": "Popular use case",
+      "description": "Farmers use the voice chat to understand irrigation timing without typing anything."
+    },
+    "disease": {
+      "title": "Disease Detection",
+      "subtitle": "Popular use case",
+      "description": "Upload a leaf photo and get a clear answer in your language within seconds."
+    }
+  },
+
+  "faq": {
+    "title": "FAQ"
+  },
+
+  "cta": {
+    "title": "Start farming smarter today",
+    "description": "Get instant help for crops, weather, pests, and prices — all in one simple assistant.",
+    "button": "Get Started Free"
+  },
+
+  "footer": {
+    "product": "Product",
+    "company": "Company",
+    "support": "Support",
+    "languages": "Languages",
+    "copyright": "© 2026 AI Smart Farming Assistant. All Rights Reserved.",
+    "madeWith": "Made with ❤️ for farmers. Built using AI to make agriculture smarter, more accessible, and more sustainable."
+  }
+}
+}

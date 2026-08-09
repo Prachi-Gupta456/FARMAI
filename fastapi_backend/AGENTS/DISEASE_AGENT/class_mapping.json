@@ -1,0 +1,1503 @@
+{
+  "class_to_index": {
+    "Apple__Black_Rot": 0,
+    "Apple__Healthy": 1,
+    "Apple__Rust": 2,
+    "Apple__Scab": 3,
+    "Banana__Cordana": 4,
+    "Banana__Healthy": 5,
+    "Banana__Pestalotiopsis": 6,
+    "Banana__Sigatoka": 7,
+    "Bean__Angular_Leaf_Spot": 8,
+    "Bean__Bean_Rust": 9,
+    "Bean__Healthy": 10,
+    "Brinjal__Healthy": 11,
+    "Brinjal__Insect_Pest": 12,
+    "Brinjal__Leaf_Spot": 13,
+    "Brinjal__Mosaic_Virus": 14,
+    "Brinjal__Small_Leaf": 15,
+    "Brinjal__White_Mold": 16,
+    "Brinjal__Wilt": 17,
+    "Cabbage__Alternaria_Leaf_Spot": 18,
+    "Cabbage__Bacterial_Spot_Rot": 19,
+    "Cabbage__Black_Rot": 20,
+    "Cabbage__Cabbage_Aphid": 21,
+    "Cabbage__Club_Root": 22,
+    "Cabbage__Downy_Mildew": 23,
+    "Cabbage__Healthy": 24,
+    "Cabbage__Ring_Spot": 25,
+    "Cassava__Bacterial_Blight": 26,
+    "Cassava__Brown_Streak_Disease": 27,
+    "Cassava__Green_Mottle": 28,
+    "Cassava__Healthy": 29,
+    "Cassava__Mosaic_Disease": 30,
+    "Cauliflower__Bacterial_Spot_Rot": 31,
+    "Cauliflower__Black_Rot": 32,
+    "Cauliflower__Downy_Mildew": 33,
+    "Cauliflower__Healthy": 34,
+    "Cherry__Healthy": 35,
+    "Cherry__Powdery_Mildew": 36,
+    "Chili__Healthy": 37,
+    "Chili__Leaf_Curl": 38,
+    "Chili__Leaf_Spot": 39,
+    "Chili__Whitefly": 40,
+    "Chili__Yellowish": 41,
+    "Coffee__Healthy": 42,
+    "Coffee__Red_Spider_Mite": 43,
+    "Coffee__Rust": 44,
+    "Corn__Common_Rust": 45,
+    "Corn__Gray_Leaf_Spot": 46,
+    "Corn__Healthy": 47,
+    "Corn__Northern_Leaf_Blight": 48,
+    "Cotton__Aphids": 49,
+    "Cotton__Army_Worm": 50,
+    "Cotton__Bacterial_Blight": 51,
+    "Cotton__Powdery_Mildew": 52,
+    "Cotton__Target_Spot": 53,
+    "Cucumber__Anthracnose": 54,
+    "Cucumber__Bacterial_Wilt": 55,
+    "Cucumber__Downy_Mildew": 56,
+    "Cucumber__Gummy_Stem_Blight": 57,
+    "Cucumber__Healthy": 58,
+    "Grape__Black_Measles": 59,
+    "Grape__Black_Rot": 60,
+    "Grape__Healthy": 61,
+    "Grape__Leaf_Blight_(Isariopsis_Leaf_Spot)": 62,
+    "Groundnut__Early_Leaf_Spot": 63,
+    "Groundnut__Healthy": 64,
+    "Groundnut__Late_Leaf_Spot": 65,
+    "Groundnut__Nutrition_Deficiency": 66,
+    "Groundnut__Rust": 67,
+    "Guava__Anthracnose": 68,
+    "Guava__Healthy": 69,
+    "Guava__Insect_Bite": 70,
+    "Guava__Scorch": 71,
+    "Guava__Yellowing": 72,
+    "Jamun__Diseased": 73,
+    "Jamun__Healthy": 74,
+    "Jute__Cercospora_Leaf_Spot": 75,
+    "Jute__Golden_Mosaic": 76,
+    "Jute__Healthy": 77,
+    "Lemon__Anthracnose": 78,
+    "Lemon__Bacterial_Blight": 79,
+    "Lemon__Citrus_Canker": 80,
+    "Lemon__Curl_Virus": 81,
+    "Lemon__Healthy": 82,
+    "Lemon__Nutrition_Deficiency": 83,
+    "Lemon__Sooty_Mould": 84,
+    "Lemon__Spider_Mites": 85,
+    "Mango__Anthracnose": 86,
+    "Mango__Bacterial_Canker": 87,
+    "Mango__Cutting_Weevil": 88,
+    "Mango__Die_Back": 89,
+    "Mango__Gall_Midge": 90,
+    "Mango__Healthy": 91,
+    "Mango__Powdery_Mildew": 92,
+    "Mango__Sooty_Mould": 93,
+    "Onion__Alternaria": 94,
+    "Onion__Botrytis_Leaf_Blight": 95,
+    "Onion__Bulb_Blight": 96,
+    "Onion__Caterpillar": 97,
+    "Onion__Fusarium": 98,
+    "Onion__Healthy": 99,
+    "Onion__Purple_Blotch": 100,
+    "Onion__Rust": 101,
+    "Onion__Stemphylium_Leaf_Blight": 102,
+    "Onion__Virosis": 103,
+    "Onion__Xanthomonas_Leaf_Blight": 104,
+    "Pea__Downy_Mildew": 105,
+    "Pea__Healthy": 106,
+    "Pea__Leafminer": 107,
+    "Pea__Powdery_Mildew": 108,
+    "Peach__Bacterial_Spot": 109,
+    "Peach__Healthy": 110,
+    "Pepper_bell__Bacterial_Spot": 111,
+    "Pepper_bell__Healthy": 112,
+    "Pomegranate__Diseased": 113,
+    "Pomegranate__Healthy": 114,
+    "Potato__Early_Blight": 115,
+    "Potato__Healthy": 116,
+    "Potato__Late_Blight": 117,
+    "Pumpkin__Bacterial_Leaf_Spot": 118,
+    "Pumpkin__Downy_Mildew": 119,
+    "Pumpkin__Healthy": 120,
+    "Pumpkin__Mosaic_Disease": 121,
+    "Pumpkin__Powdery_Mildew": 122,
+    "Rice__Brown_Spot": 123,
+    "Rice__Healthy": 124,
+    "Rice__Hispa": 125,
+    "Rice__Leaf_Blast": 126,
+    "Rice__Neck_Blast": 127,
+    "Soybean__Bacterial_Pustule": 128,
+    "Soybean__Frogeye_Leaf_Spot": 129,
+    "Soybean__Healthy": 130,
+    "Soybean__Rust": 131,
+    "Soybean__Sudden_Death_Syndrome": 132,
+    "Soybean__Target_Leaf_Spot": 133,
+    "Soybean__Yellow_Mosaic": 134,
+    "Strawberry__Healthy": 135,
+    "Strawberry___Leaf_Scorch": 136,
+    "Sugarcane__Bacterial_Blight": 137,
+    "Sugarcane__Healthy": 138,
+    "Sugarcane__Mosaic": 139,
+    "Sugarcane__Red_Rot": 140,
+    "Sugarcane__Rust": 141,
+    "Sugarcane__Yellow_Leaf_Disease": 142,
+    "Tea__Algal_Leaf": 143,
+    "Tea__Anthracnose": 144,
+    "Tea__Bird_Eye_Spot": 145,
+    "Tea__Brown_Blight": 146,
+    "Tea__Healthy": 147,
+    "Tea__Red_Leaf_Spot": 148,
+    "Tomato__Bacterial_Spot": 149,
+    "Tomato__Early_Blight": 150,
+    "Tomato__Healthy": 151,
+    "Tomato__Late_Blight": 152,
+    "Tomato__Leaf_Mold": 153,
+    "Tomato__Mosaic_Virus": 154,
+    "Tomato__Septoria_Leaf_Spot": 155,
+    "Tomato__Spider_Mites_(Two_Spotted_Spider_Mite)": 156,
+    "Tomato__Target_Spot": 157,
+    "Tomato__Yellow_Leaf_Curl_Virus": 158,
+    "Watermelon__Anthracnose": 159,
+    "Watermelon__Downy_Mildew": 160,
+    "Watermelon__Healthy": 161,
+    "Watermelon__Mosaic_Virus": 162,
+    "Wheat__Brown_Rust": 163,
+    "Wheat__Healthy": 164,
+    "Wheat__Yellow_Rust": 165
+  },
+  "index_to_class": {
+    "0": "Apple__Black_Rot",
+    "1": "Apple__Healthy",
+    "2": "Apple__Rust",
+    "3": "Apple__Scab",
+    "4": "Banana__Cordana",
+    "5": "Banana__Healthy",
+    "6": "Banana__Pestalotiopsis",
+    "7": "Banana__Sigatoka",
+    "8": "Bean__Angular_Leaf_Spot",
+    "9": "Bean__Bean_Rust",
+    "10": "Bean__Healthy",
+    "11": "Brinjal__Healthy",
+    "12": "Brinjal__Insect_Pest",
+    "13": "Brinjal__Leaf_Spot",
+    "14": "Brinjal__Mosaic_Virus",
+    "15": "Brinjal__Small_Leaf",
+    "16": "Brinjal__White_Mold",
+    "17": "Brinjal__Wilt",
+    "18": "Cabbage__Alternaria_Leaf_Spot",
+    "19": "Cabbage__Bacterial_Spot_Rot",
+    "20": "Cabbage__Black_Rot",
+    "21": "Cabbage__Cabbage_Aphid",
+    "22": "Cabbage__Club_Root",
+    "23": "Cabbage__Downy_Mildew",
+    "24": "Cabbage__Healthy",
+    "25": "Cabbage__Ring_Spot",
+    "26": "Cassava__Bacterial_Blight",
+    "27": "Cassava__Brown_Streak_Disease",
+    "28": "Cassava__Green_Mottle",
+    "29": "Cassava__Healthy",
+    "30": "Cassava__Mosaic_Disease",
+    "31": "Cauliflower__Bacterial_Spot_Rot",
+    "32": "Cauliflower__Black_Rot",
+    "33": "Cauliflower__Downy_Mildew",
+    "34": "Cauliflower__Healthy",
+    "35": "Cherry__Healthy",
+    "36": "Cherry__Powdery_Mildew",
+    "37": "Chili__Healthy",
+    "38": "Chili__Leaf_Curl",
+    "39": "Chili__Leaf_Spot",
+    "40": "Chili__Whitefly",
+    "41": "Chili__Yellowish",
+    "42": "Coffee__Healthy",
+    "43": "Coffee__Red_Spider_Mite",
+    "44": "Coffee__Rust",
+    "45": "Corn__Common_Rust",
+    "46": "Corn__Gray_Leaf_Spot",
+    "47": "Corn__Healthy",
+    "48": "Corn__Northern_Leaf_Blight",
+    "49": "Cotton__Aphids",
+    "50": "Cotton__Army_Worm",
+    "51": "Cotton__Bacterial_Blight",
+    "52": "Cotton__Powdery_Mildew",
+    "53": "Cotton__Target_Spot",
+    "54": "Cucumber__Anthracnose",
+    "55": "Cucumber__Bacterial_Wilt",
+    "56": "Cucumber__Downy_Mildew",
+    "57": "Cucumber__Gummy_Stem_Blight",
+    "58": "Cucumber__Healthy",
+    "59": "Grape__Black_Measles",
+    "60": "Grape__Black_Rot",
+    "61": "Grape__Healthy",
+    "62": "Grape__Leaf_Blight_(Isariopsis_Leaf_Spot)",
+    "63": "Groundnut__Early_Leaf_Spot",
+    "64": "Groundnut__Healthy",
+    "65": "Groundnut__Late_Leaf_Spot",
+    "66": "Groundnut__Nutrition_Deficiency",
+    "67": "Groundnut__Rust",
+    "68": "Guava__Anthracnose",
+    "69": "Guava__Healthy",
+    "70": "Guava__Insect_Bite",
+    "71": "Guava__Scorch",
+    "72": "Guava__Yellowing",
+    "73": "Jamun__Diseased",
+    "74": "Jamun__Healthy",
+    "75": "Jute__Cercospora_Leaf_Spot",
+    "76": "Jute__Golden_Mosaic",
+    "77": "Jute__Healthy",
+    "78": "Lemon__Anthracnose",
+    "79": "Lemon__Bacterial_Blight",
+    "80": "Lemon__Citrus_Canker",
+    "81": "Lemon__Curl_Virus",
+    "82": "Lemon__Healthy",
+    "83": "Lemon__Nutrition_Deficiency",
+    "84": "Lemon__Sooty_Mould",
+    "85": "Lemon__Spider_Mites",
+    "86": "Mango__Anthracnose",
+    "87": "Mango__Bacterial_Canker",
+    "88": "Mango__Cutting_Weevil",
+    "89": "Mango__Die_Back",
+    "90": "Mango__Gall_Midge",
+    "91": "Mango__Healthy",
+    "92": "Mango__Powdery_Mildew",
+    "93": "Mango__Sooty_Mould",
+    "94": "Onion__Alternaria",
+    "95": "Onion__Botrytis_Leaf_Blight",
+    "96": "Onion__Bulb_Blight",
+    "97": "Onion__Caterpillar",
+    "98": "Onion__Fusarium",
+    "99": "Onion__Healthy",
+    "100": "Onion__Purple_Blotch",
+    "101": "Onion__Rust",
+    "102": "Onion__Stemphylium_Leaf_Blight",
+    "103": "Onion__Virosis",
+    "104": "Onion__Xanthomonas_Leaf_Blight",
+    "105": "Pea__Downy_Mildew",
+    "106": "Pea__Healthy",
+    "107": "Pea__Leafminer",
+    "108": "Pea__Powdery_Mildew",
+    "109": "Peach__Bacterial_Spot",
+    "110": "Peach__Healthy",
+    "111": "Pepper_bell__Bacterial_Spot",
+    "112": "Pepper_bell__Healthy",
+    "113": "Pomegranate__Diseased",
+    "114": "Pomegranate__Healthy",
+    "115": "Potato__Early_Blight",
+    "116": "Potato__Healthy",
+    "117": "Potato__Late_Blight",
+    "118": "Pumpkin__Bacterial_Leaf_Spot",
+    "119": "Pumpkin__Downy_Mildew",
+    "120": "Pumpkin__Healthy",
+    "121": "Pumpkin__Mosaic_Disease",
+    "122": "Pumpkin__Powdery_Mildew",
+    "123": "Rice__Brown_Spot",
+    "124": "Rice__Healthy",
+    "125": "Rice__Hispa",
+    "126": "Rice__Leaf_Blast",
+    "127": "Rice__Neck_Blast",
+    "128": "Soybean__Bacterial_Pustule",
+    "129": "Soybean__Frogeye_Leaf_Spot",
+    "130": "Soybean__Healthy",
+    "131": "Soybean__Rust",
+    "132": "Soybean__Sudden_Death_Syndrome",
+    "133": "Soybean__Target_Leaf_Spot",
+    "134": "Soybean__Yellow_Mosaic",
+    "135": "Strawberry__Healthy",
+    "136": "Strawberry___Leaf_Scorch",
+    "137": "Sugarcane__Bacterial_Blight",
+    "138": "Sugarcane__Healthy",
+    "139": "Sugarcane__Mosaic",
+    "140": "Sugarcane__Red_Rot",
+    "141": "Sugarcane__Rust",
+    "142": "Sugarcane__Yellow_Leaf_Disease",
+    "143": "Tea__Algal_Leaf",
+    "144": "Tea__Anthracnose",
+    "145": "Tea__Bird_Eye_Spot",
+    "146": "Tea__Brown_Blight",
+    "147": "Tea__Healthy",
+    "148": "Tea__Red_Leaf_Spot",
+    "149": "Tomato__Bacterial_Spot",
+    "150": "Tomato__Early_Blight",
+    "151": "Tomato__Healthy",
+    "152": "Tomato__Late_Blight",
+    "153": "Tomato__Leaf_Mold",
+    "154": "Tomato__Mosaic_Virus",
+    "155": "Tomato__Septoria_Leaf_Spot",
+    "156": "Tomato__Spider_Mites_(Two_Spotted_Spider_Mite)",
+    "157": "Tomato__Target_Spot",
+    "158": "Tomato__Yellow_Leaf_Curl_Virus",
+    "159": "Watermelon__Anthracnose",
+    "160": "Watermelon__Downy_Mildew",
+    "161": "Watermelon__Healthy",
+    "162": "Watermelon__Mosaic_Virus",
+    "163": "Wheat__Brown_Rust",
+    "164": "Wheat__Healthy",
+    "165": "Wheat__Yellow_Rust"
+  },
+  "class_metadata": {
+    "Cauliflower__Black_Rot": {
+      "index": 32,
+      "crop": "Cauliflower",
+      "standard_name": "Black_Rot",
+      "display_name": "Black Rot",
+      "type": "Disease"
+    },
+    "Lemon__Anthracnose": {
+      "index": 78,
+      "crop": "Lemon",
+      "standard_name": "Anthracnose",
+      "display_name": "Anthracnose",
+      "type": "Disease"
+    },
+    "Chili__Healthy": {
+      "index": 37,
+      "crop": "Chili",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Chili__Leaf_Curl": {
+      "index": 38,
+      "crop": "Chili",
+      "standard_name": "Leaf_Curl",
+      "display_name": "Leaf Curl",
+      "type": "Disease"
+    },
+    "Chili__Leaf_Spot": {
+      "index": 39,
+      "crop": "Chili",
+      "standard_name": "Leaf_Spot",
+      "display_name": "Leaf Spot",
+      "type": "Disease"
+    },
+    "Chili__Whitefly": {
+      "index": 40,
+      "crop": "Chili",
+      "standard_name": "Whitefly",
+      "display_name": "Whitefly",
+      "type": "Pest"
+    },
+    "Chili__Yellowish": {
+      "index": 41,
+      "crop": "Chili",
+      "standard_name": "Yellowish",
+      "display_name": "Yellowish",
+      "type": "Disease"
+    },
+    "Lemon__Bacterial_Blight": {
+      "index": 79,
+      "crop": "Lemon",
+      "standard_name": "Bacterial_Blight",
+      "display_name": "Bacterial Blight",
+      "type": "Disease"
+    },
+    "Soybean__Bacterial_Pustule": {
+      "index": 128,
+      "crop": "Soybean",
+      "standard_name": "Bacterial_Pustule",
+      "display_name": "Bacterial Pustule",
+      "type": "Disease"
+    },
+    "Soybean__Frogeye_Leaf_Spot": {
+      "index": 129,
+      "crop": "Soybean",
+      "standard_name": "Frogeye_Leaf_Spot",
+      "display_name": "Frogeye Leaf Spot",
+      "type": "Disease"
+    },
+    "Soybean__Healthy": {
+      "index": 130,
+      "crop": "Soybean",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Soybean__Rust": {
+      "index": 131,
+      "crop": "Soybean",
+      "standard_name": "Rust",
+      "display_name": "Rust",
+      "type": "Disease"
+    },
+    "Soybean__Sudden_Death_Syndrome": {
+      "index": 132,
+      "crop": "Soybean",
+      "standard_name": "Sudden_Death_Syndrome",
+      "display_name": "Sudden Death Syndrome",
+      "type": "Disease"
+    },
+    "Soybean__Target_Leaf_Spot": {
+      "index": 133,
+      "crop": "Soybean",
+      "standard_name": "Target_Leaf_Spot",
+      "display_name": "Target Leaf Spot",
+      "type": "Disease"
+    },
+    "Soybean__Yellow_Mosaic": {
+      "index": 134,
+      "crop": "Soybean",
+      "standard_name": "Yellow_Mosaic",
+      "display_name": "Yellow Mosaic",
+      "type": "Disease"
+    },
+    "Lemon__Spider_Mites": {
+      "index": 85,
+      "crop": "Lemon",
+      "standard_name": "Spider_Mites",
+      "display_name": "Spider Mites",
+      "type": "Pest"
+    },
+    "Lemon__Curl_Virus": {
+      "index": 81,
+      "crop": "Lemon",
+      "standard_name": "Curl_Virus",
+      "display_name": "Curl Virus",
+      "type": "Disease"
+    },
+    "Banana__Healthy": {
+      "index": 5,
+      "crop": "Banana",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Potato__Healthy": {
+      "index": 116,
+      "crop": "Potato",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Lemon__Sooty_Mould": {
+      "index": 84,
+      "crop": "Lemon",
+      "standard_name": "Sooty_Mould",
+      "display_name": "Sooty Mould",
+      "type": "Disease"
+    },
+    "Watermelon__Anthracnose": {
+      "index": 159,
+      "crop": "Watermelon",
+      "standard_name": "Anthracnose",
+      "display_name": "Anthracnose",
+      "type": "Disease"
+    },
+    "Cucumber__Anthracnose": {
+      "index": 54,
+      "crop": "Cucumber",
+      "standard_name": "Anthracnose",
+      "display_name": "Anthracnose",
+      "type": "Disease"
+    },
+    "Cucumber__Bacterial_Wilt": {
+      "index": 55,
+      "crop": "Cucumber",
+      "standard_name": "Bacterial_Wilt",
+      "display_name": "Bacterial Wilt",
+      "type": "Disease"
+    },
+    "Cucumber__Downy_Mildew": {
+      "index": 56,
+      "crop": "Cucumber",
+      "standard_name": "Downy_Mildew",
+      "display_name": "Downy Mildew",
+      "type": "Disease"
+    },
+    "Cucumber__Healthy": {
+      "index": 58,
+      "crop": "Cucumber",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Cucumber__Gummy_Stem_Blight": {
+      "index": 57,
+      "crop": "Cucumber",
+      "standard_name": "Gummy_Stem_Blight",
+      "display_name": "Gummy Stem Blight",
+      "type": "Disease"
+    },
+    "Banana__Cordana": {
+      "index": 4,
+      "crop": "Banana",
+      "standard_name": "Cordana",
+      "display_name": "Cordana",
+      "type": "Disease"
+    },
+    "Coffee__Red_Spider_Mite": {
+      "index": 43,
+      "crop": "Coffee",
+      "standard_name": "Red_Spider_Mite",
+      "display_name": "Red Spider Mite",
+      "type": "Pest"
+    },
+    "Banana__Pestalotiopsis": {
+      "index": 6,
+      "crop": "Banana",
+      "standard_name": "Pestalotiopsis",
+      "display_name": "Pestalotiopsis",
+      "type": "Disease"
+    },
+    "Cauliflower__Bacterial_Spot_Rot": {
+      "index": 31,
+      "crop": "Cauliflower",
+      "standard_name": "Bacterial_Spot_Rot",
+      "display_name": "Bacterial Spot Rot",
+      "type": "Disease"
+    },
+    "Cauliflower__Downy_Mildew": {
+      "index": 33,
+      "crop": "Cauliflower",
+      "standard_name": "Downy_Mildew",
+      "display_name": "Downy Mildew",
+      "type": "Disease"
+    },
+    "Lemon__Citrus_Canker": {
+      "index": 80,
+      "crop": "Lemon",
+      "standard_name": "Citrus_Canker",
+      "display_name": "Citrus Canker",
+      "type": "Disease"
+    },
+    "Onion__Xanthomonas_Leaf_Blight": {
+      "index": 104,
+      "crop": "Onion",
+      "standard_name": "Xanthomonas_Leaf_Blight",
+      "display_name": "Xanthomonas Leaf Blight",
+      "type": "Disease"
+    },
+    "Lemon__Nutrition_Deficiency": {
+      "index": 83,
+      "crop": "Lemon",
+      "standard_name": "Nutrition_Deficiency",
+      "display_name": "Nutrition Deficiency",
+      "type": "Deficiency"
+    },
+    "Brinjal__Healthy": {
+      "index": 11,
+      "crop": "Brinjal",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Brinjal__Insect_Pest": {
+      "index": 12,
+      "crop": "Brinjal",
+      "standard_name": "Insect_Pest",
+      "display_name": "Insect Pest",
+      "type": "Pest"
+    },
+    "Brinjal__Leaf_Spot": {
+      "index": 13,
+      "crop": "Brinjal",
+      "standard_name": "Leaf_Spot",
+      "display_name": "Leaf Spot",
+      "type": "Disease"
+    },
+    "Brinjal__Mosaic_Virus": {
+      "index": 14,
+      "crop": "Brinjal",
+      "standard_name": "Mosaic_Virus",
+      "display_name": "Mosaic Virus",
+      "type": "Disease"
+    },
+    "Brinjal__Small_Leaf": {
+      "index": 15,
+      "crop": "Brinjal",
+      "standard_name": "Small_Leaf",
+      "display_name": "Small Leaf",
+      "type": "Disease"
+    },
+    "Brinjal__White_Mold": {
+      "index": 16,
+      "crop": "Brinjal",
+      "standard_name": "White_Mold",
+      "display_name": "White Mold",
+      "type": "Disease"
+    },
+    "Brinjal__Wilt": {
+      "index": 17,
+      "crop": "Brinjal",
+      "standard_name": "Wilt",
+      "display_name": "Wilt",
+      "type": "Disease"
+    },
+    "Cabbage__Alternaria_Leaf_Spot": {
+      "index": 18,
+      "crop": "Cabbage",
+      "standard_name": "Alternaria_Leaf_Spot",
+      "display_name": "Alternaria Leaf Spot",
+      "type": "Disease"
+    },
+    "Cabbage__Bacterial_Spot_Rot": {
+      "index": 19,
+      "crop": "Cabbage",
+      "standard_name": "Bacterial_Spot_Rot",
+      "display_name": "Bacterial Spot Rot",
+      "type": "Disease"
+    },
+    "Cabbage__Black_Rot": {
+      "index": 20,
+      "crop": "Cabbage",
+      "standard_name": "Black_Rot",
+      "display_name": "Black Rot",
+      "type": "Disease"
+    },
+    "Cabbage__Cabbage_Aphid": {
+      "index": 21,
+      "crop": "Cabbage",
+      "standard_name": "Cabbage_Aphid",
+      "display_name": "Cabbage Aphid",
+      "type": "Pest"
+    },
+    "Cabbage__Downy_Mildew": {
+      "index": 23,
+      "crop": "Cabbage",
+      "standard_name": "Downy_Mildew",
+      "display_name": "Downy Mildew",
+      "type": "Disease"
+    },
+    "Cabbage__Healthy": {
+      "index": 24,
+      "crop": "Cabbage",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Cabbage__Club_Root": {
+      "index": 22,
+      "crop": "Cabbage",
+      "standard_name": "Club_Root",
+      "display_name": "Club Root",
+      "type": "Disease"
+    },
+    "Cabbage__Ring_Spot": {
+      "index": 25,
+      "crop": "Cabbage",
+      "standard_name": "Ring_Spot",
+      "display_name": "Ring Spot",
+      "type": "Disease"
+    },
+    "Watermelon__Healthy": {
+      "index": 161,
+      "crop": "Watermelon",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Cauliflower__Healthy": {
+      "index": 34,
+      "crop": "Cauliflower",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Lemon__Healthy": {
+      "index": 82,
+      "crop": "Lemon",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Onion__Rust": {
+      "index": 101,
+      "crop": "Onion",
+      "standard_name": "Rust",
+      "display_name": "Rust",
+      "type": "Disease"
+    },
+    "Tea__Healthy": {
+      "index": 147,
+      "crop": "Tea",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Groundnut__Rust": {
+      "index": 67,
+      "crop": "Groundnut",
+      "standard_name": "Rust",
+      "display_name": "Rust",
+      "type": "Disease"
+    },
+    "Jute__Healthy": {
+      "index": 77,
+      "crop": "Jute",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Pomegranate__Diseased": {
+      "index": 113,
+      "crop": "Pomegranate",
+      "standard_name": "Diseased",
+      "display_name": "Diseased",
+      "type": "Disease"
+    },
+    "Jamun__Healthy": {
+      "index": 74,
+      "crop": "Jamun",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Pomegranate__Healthy": {
+      "index": 114,
+      "crop": "Pomegranate",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Onion__Botrytis_Leaf_Blight": {
+      "index": 95,
+      "crop": "Onion",
+      "standard_name": "Botrytis_Leaf_Blight",
+      "display_name": "Botrytis Leaf Blight",
+      "type": "Disease"
+    },
+    "Tea__Anthracnose": {
+      "index": 144,
+      "crop": "Tea",
+      "standard_name": "Anthracnose",
+      "display_name": "Anthracnose",
+      "type": "Disease"
+    },
+    "Tea__Bird_Eye_Spot": {
+      "index": 145,
+      "crop": "Tea",
+      "standard_name": "Bird_Eye_Spot",
+      "display_name": "Bird Eye Spot",
+      "type": "Disease"
+    },
+    "Pea__Powdery_Mildew": {
+      "index": 108,
+      "crop": "Pea",
+      "standard_name": "Powdery_Mildew",
+      "display_name": "Powdery Mildew",
+      "type": "Disease"
+    },
+    "Jute__Cercospora_Leaf_Spot": {
+      "index": 75,
+      "crop": "Jute",
+      "standard_name": "Cercospora_Leaf_Spot",
+      "display_name": "Cercospora Leaf Spot",
+      "type": "Disease"
+    },
+    "Groundnut__Nutrition_Deficiency": {
+      "index": 66,
+      "crop": "Groundnut",
+      "standard_name": "Nutrition_Deficiency",
+      "display_name": "Nutrition Deficiency",
+      "type": "Deficiency"
+    },
+    "Bean__Angular_Leaf_Spot": {
+      "index": 8,
+      "crop": "Bean",
+      "standard_name": "Angular_Leaf_Spot",
+      "display_name": "Angular Leaf Spot",
+      "type": "Disease"
+    },
+    "Bean__Bean_Rust": {
+      "index": 9,
+      "crop": "Bean",
+      "standard_name": "Bean_Rust",
+      "display_name": "Bean Rust",
+      "type": "Disease"
+    },
+    "Bean__Healthy": {
+      "index": 10,
+      "crop": "Bean",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Tea__Algal_Leaf": {
+      "index": 143,
+      "crop": "Tea",
+      "standard_name": "Algal_Leaf",
+      "display_name": "Algal Leaf",
+      "type": "Disease"
+    },
+    "Tea__Brown_Blight": {
+      "index": 146,
+      "crop": "Tea",
+      "standard_name": "Brown_Blight",
+      "display_name": "Brown Blight",
+      "type": "Disease"
+    },
+    "Jamun__Diseased": {
+      "index": 73,
+      "crop": "Jamun",
+      "standard_name": "Diseased",
+      "display_name": "Diseased",
+      "type": "Disease"
+    },
+    "Jute__Golden_Mosaic": {
+      "index": 76,
+      "crop": "Jute",
+      "standard_name": "Golden_Mosaic",
+      "display_name": "Golden Mosaic",
+      "type": "Disease"
+    },
+    "Pea__Leafminer": {
+      "index": 107,
+      "crop": "Pea",
+      "standard_name": "Leafminer",
+      "display_name": "Leafminer",
+      "type": "Pest"
+    },
+    "Apple__Rust": {
+      "index": 2,
+      "crop": "Apple",
+      "standard_name": "Rust",
+      "display_name": "Rust",
+      "type": "Disease"
+    },
+    "Peach__Healthy": {
+      "index": 110,
+      "crop": "Peach",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Pea__Downy_Mildew": {
+      "index": 105,
+      "crop": "Pea",
+      "standard_name": "Downy_Mildew",
+      "display_name": "Downy Mildew",
+      "type": "Disease"
+    },
+    "Watermelon__Downy_Mildew": {
+      "index": 160,
+      "crop": "Watermelon",
+      "standard_name": "Downy_Mildew",
+      "display_name": "Downy Mildew",
+      "type": "Disease"
+    },
+    "Tomato__Mosaic_Virus": {
+      "index": 154,
+      "crop": "Tomato",
+      "standard_name": "Mosaic_Virus",
+      "display_name": "Mosaic Virus",
+      "type": "Disease"
+    },
+    "Onion__Bulb_Blight": {
+      "index": 96,
+      "crop": "Onion",
+      "standard_name": "Bulb_Blight",
+      "display_name": "Bulb Blight",
+      "type": "Disease"
+    },
+    "Pumpkin__Bacterial_Leaf_Spot": {
+      "index": 118,
+      "crop": "Pumpkin",
+      "standard_name": "Bacterial_Leaf_Spot",
+      "display_name": "Bacterial Leaf Spot",
+      "type": "Disease"
+    },
+    "Pumpkin__Downy_Mildew": {
+      "index": 119,
+      "crop": "Pumpkin",
+      "standard_name": "Downy_Mildew",
+      "display_name": "Downy Mildew",
+      "type": "Disease"
+    },
+    "Pumpkin__Healthy": {
+      "index": 120,
+      "crop": "Pumpkin",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Pumpkin__Mosaic_Disease": {
+      "index": 121,
+      "crop": "Pumpkin",
+      "standard_name": "Mosaic_Disease",
+      "display_name": "Mosaic Disease",
+      "type": "Disease"
+    },
+    "Pumpkin__Powdery_Mildew": {
+      "index": 122,
+      "crop": "Pumpkin",
+      "standard_name": "Powdery_Mildew",
+      "display_name": "Powdery Mildew",
+      "type": "Disease"
+    },
+    "Pea__Healthy": {
+      "index": 106,
+      "crop": "Pea",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Watermelon__Mosaic_Virus": {
+      "index": 162,
+      "crop": "Watermelon",
+      "standard_name": "Mosaic_Virus",
+      "display_name": "Mosaic Virus",
+      "type": "Disease"
+    },
+    "Tea__Red_Leaf_Spot": {
+      "index": 148,
+      "crop": "Tea",
+      "standard_name": "Red_Leaf_Spot",
+      "display_name": "Red Leaf Spot",
+      "type": "Disease"
+    },
+    "Coffee__Healthy": {
+      "index": 42,
+      "crop": "Coffee",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Coffee__Rust": {
+      "index": 44,
+      "crop": "Coffee",
+      "standard_name": "Rust",
+      "display_name": "Rust",
+      "type": "Disease"
+    },
+    "Cassava__Mosaic_Disease": {
+      "index": 30,
+      "crop": "Cassava",
+      "standard_name": "Mosaic_Disease",
+      "display_name": "Mosaic Disease",
+      "type": "Disease"
+    },
+    "Strawberry__Healthy": {
+      "index": 135,
+      "crop": "Strawberry",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Grape__Healthy": {
+      "index": 61,
+      "crop": "Grape",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Cassava__Green_Mottle": {
+      "index": 28,
+      "crop": "Cassava",
+      "standard_name": "Green_Mottle",
+      "display_name": "Green Mottle",
+      "type": "Disease"
+    },
+    "Banana__Sigatoka": {
+      "index": 7,
+      "crop": "Banana",
+      "standard_name": "Sigatoka",
+      "display_name": "Sigatoka",
+      "type": "Disease"
+    },
+    "Cassava__Bacterial_Blight": {
+      "index": 26,
+      "crop": "Cassava",
+      "standard_name": "Bacterial_Blight",
+      "display_name": "Bacterial Blight",
+      "type": "Disease"
+    },
+    "Mango__Anthracnose": {
+      "index": 86,
+      "crop": "Mango",
+      "standard_name": "Anthracnose",
+      "display_name": "Anthracnose",
+      "type": "Disease"
+    },
+    "Mango__Bacterial_Canker": {
+      "index": 87,
+      "crop": "Mango",
+      "standard_name": "Bacterial_Canker",
+      "display_name": "Bacterial Canker",
+      "type": "Disease"
+    },
+    "Mango__Cutting_Weevil": {
+      "index": 88,
+      "crop": "Mango",
+      "standard_name": "Cutting_Weevil",
+      "display_name": "Cutting Weevil",
+      "type": "Pest"
+    },
+    "Mango__Die_Back": {
+      "index": 89,
+      "crop": "Mango",
+      "standard_name": "Die_Back",
+      "display_name": "Die Back",
+      "type": "Disease"
+    },
+    "Mango__Gall_Midge": {
+      "index": 90,
+      "crop": "Mango",
+      "standard_name": "Gall_Midge",
+      "display_name": "Gall Midge",
+      "type": "Pest"
+    },
+    "Mango__Healthy": {
+      "index": 91,
+      "crop": "Mango",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Mango__Powdery_Mildew": {
+      "index": 92,
+      "crop": "Mango",
+      "standard_name": "Powdery_Mildew",
+      "display_name": "Powdery Mildew",
+      "type": "Disease"
+    },
+    "Mango__Sooty_Mould": {
+      "index": 93,
+      "crop": "Mango",
+      "standard_name": "Sooty_Mould",
+      "display_name": "Sooty Mould",
+      "type": "Disease"
+    },
+    "Onion__Virosis": {
+      "index": 103,
+      "crop": "Onion",
+      "standard_name": "Virosis",
+      "display_name": "Virosis",
+      "type": "Disease"
+    },
+    "Cassava__Brown_Streak_Disease": {
+      "index": 27,
+      "crop": "Cassava",
+      "standard_name": "Brown_Streak_Disease",
+      "display_name": "Brown Streak Disease",
+      "type": "Disease"
+    },
+    "Rice__Hispa": {
+      "index": 125,
+      "crop": "Rice",
+      "standard_name": "Hispa",
+      "display_name": "Hispa",
+      "type": "Disease"
+    },
+    "Cotton__Aphids": {
+      "index": 49,
+      "crop": "Cotton",
+      "standard_name": "Aphids",
+      "display_name": "Aphids",
+      "type": "Pest"
+    },
+    "Cotton__Army_Worm": {
+      "index": 50,
+      "crop": "Cotton",
+      "standard_name": "Army_Worm",
+      "display_name": "Army Worm",
+      "type": "Pest"
+    },
+    "Cotton__Bacterial_Blight": {
+      "index": 51,
+      "crop": "Cotton",
+      "standard_name": "Bacterial_Blight",
+      "display_name": "Bacterial Blight",
+      "type": "Disease"
+    },
+    "Cotton__Powdery_Mildew": {
+      "index": 52,
+      "crop": "Cotton",
+      "standard_name": "Powdery_Mildew",
+      "display_name": "Powdery Mildew",
+      "type": "Disease"
+    },
+    "Cotton__Target_Spot": {
+      "index": 53,
+      "crop": "Cotton",
+      "standard_name": "Target_Spot",
+      "display_name": "Target Spot",
+      "type": "Disease"
+    },
+    "Apple__Black_Rot": {
+      "index": 0,
+      "crop": "Apple",
+      "standard_name": "Black_Rot",
+      "display_name": "Black Rot",
+      "type": "Disease"
+    },
+    "Rice__Brown_Spot": {
+      "index": 123,
+      "crop": "Rice",
+      "standard_name": "Brown_Spot",
+      "display_name": "Brown Spot",
+      "type": "Disease"
+    },
+    "Cassava__Healthy": {
+      "index": 29,
+      "crop": "Cassava",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Groundnut__Late_Leaf_Spot": {
+      "index": 65,
+      "crop": "Groundnut",
+      "standard_name": "Late_Leaf_Spot",
+      "display_name": "Late Leaf Spot",
+      "type": "Disease"
+    },
+    "Apple__Scab": {
+      "index": 3,
+      "crop": "Apple",
+      "standard_name": "Scab",
+      "display_name": "Scab",
+      "type": "Disease"
+    },
+    "Onion__Alternaria": {
+      "index": 94,
+      "crop": "Onion",
+      "standard_name": "Alternaria",
+      "display_name": "Alternaria",
+      "type": "Disease"
+    },
+    "Onion__Purple_Blotch": {
+      "index": 100,
+      "crop": "Onion",
+      "standard_name": "Purple_Blotch",
+      "display_name": "Purple Blotch",
+      "type": "Disease"
+    },
+    "Groundnut__Early_Leaf_Spot": {
+      "index": 63,
+      "crop": "Groundnut",
+      "standard_name": "Early_Leaf_Spot",
+      "display_name": "Early Leaf Spot",
+      "type": "Disease"
+    },
+    "Grape__Leaf_Blight_(Isariopsis_Leaf_Spot)": {
+      "index": 62,
+      "crop": "Grape",
+      "standard_name": "Leaf_Blight_(Isariopsis_Leaf_Spot)",
+      "display_name": "Leaf Blight (Isariopsis Leaf Spot)",
+      "type": "Disease"
+    },
+    "Cherry__Healthy": {
+      "index": 35,
+      "crop": "Cherry",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Wheat__Brown_Rust": {
+      "index": 163,
+      "crop": "Wheat",
+      "standard_name": "Brown_Rust",
+      "display_name": "Brown Rust",
+      "type": "Disease"
+    },
+    "Groundnut__Healthy": {
+      "index": 64,
+      "crop": "Groundnut",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Tomato__Leaf_Mold": {
+      "index": 153,
+      "crop": "Tomato",
+      "standard_name": "Leaf_Mold",
+      "display_name": "Leaf Mold",
+      "type": "Disease"
+    },
+    "Rice__Leaf_Blast": {
+      "index": 126,
+      "crop": "Rice",
+      "standard_name": "Leaf_Blast",
+      "display_name": "Leaf Blast",
+      "type": "Disease"
+    },
+    "Rice__Neck_Blast": {
+      "index": 127,
+      "crop": "Rice",
+      "standard_name": "Neck_Blast",
+      "display_name": "Neck Blast",
+      "type": "Disease"
+    },
+    "Tomato__Early_Blight": {
+      "index": 150,
+      "crop": "Tomato",
+      "standard_name": "Early_Blight",
+      "display_name": "Early Blight",
+      "type": "Disease"
+    },
+    "Cherry__Powdery_Mildew": {
+      "index": 36,
+      "crop": "Cherry",
+      "standard_name": "Powdery_Mildew",
+      "display_name": "Powdery Mildew",
+      "type": "Disease"
+    },
+    "Pepper_bell__Bacterial_Spot": {
+      "index": 111,
+      "crop": "Pepper_bell",
+      "standard_name": "Bacterial_Spot",
+      "display_name": "Bacterial Spot",
+      "type": "Disease"
+    },
+    "Potato__Late_Blight": {
+      "index": 117,
+      "crop": "Potato",
+      "standard_name": "Late_Blight",
+      "display_name": "Late Blight",
+      "type": "Disease"
+    },
+    "Corn__Gray_Leaf_Spot": {
+      "index": 46,
+      "crop": "Corn",
+      "standard_name": "Gray_Leaf_Spot",
+      "display_name": "Gray Leaf Spot",
+      "type": "Disease"
+    },
+    "Potato__Early_Blight": {
+      "index": 115,
+      "crop": "Potato",
+      "standard_name": "Early_Blight",
+      "display_name": "Early Blight",
+      "type": "Disease"
+    },
+    "Strawberry___Leaf_Scorch": {
+      "index": 136,
+      "crop": "Strawberry",
+      "standard_name": "_Leaf_Scorch",
+      "display_name": " Leaf Scorch",
+      "type": "Disease"
+    },
+    "Wheat__Yellow_Rust": {
+      "index": 165,
+      "crop": "Wheat",
+      "standard_name": "Yellow_Rust",
+      "display_name": "Yellow Rust",
+      "type": "Disease"
+    },
+    "Corn__Healthy": {
+      "index": 47,
+      "crop": "Corn",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Guava__Anthracnose": {
+      "index": 68,
+      "crop": "Guava",
+      "standard_name": "Anthracnose",
+      "display_name": "Anthracnose",
+      "type": "Disease"
+    },
+    "Guava__Healthy": {
+      "index": 69,
+      "crop": "Guava",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Guava__Insect_Bite": {
+      "index": 70,
+      "crop": "Guava",
+      "standard_name": "Insect_Bite",
+      "display_name": "Insect Bite",
+      "type": "Pest"
+    },
+    "Guava__Scorch": {
+      "index": 71,
+      "crop": "Guava",
+      "standard_name": "Scorch",
+      "display_name": "Scorch",
+      "type": "Disease"
+    },
+    "Guava__Yellowing": {
+      "index": 72,
+      "crop": "Guava",
+      "standard_name": "Yellowing",
+      "display_name": "Yellowing",
+      "type": "Disease"
+    },
+    "Corn__Northern_Leaf_Blight": {
+      "index": 48,
+      "crop": "Corn",
+      "standard_name": "Northern_Leaf_Blight",
+      "display_name": "Northern Leaf Blight",
+      "type": "Disease"
+    },
+    "Wheat__Healthy": {
+      "index": 164,
+      "crop": "Wheat",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Onion__Fusarium": {
+      "index": 98,
+      "crop": "Onion",
+      "standard_name": "Fusarium",
+      "display_name": "Fusarium",
+      "type": "Disease"
+    },
+    "Corn__Common_Rust": {
+      "index": 45,
+      "crop": "Corn",
+      "standard_name": "Common_Rust",
+      "display_name": "Common Rust",
+      "type": "Disease"
+    },
+    "Grape__Black_Measles": {
+      "index": 59,
+      "crop": "Grape",
+      "standard_name": "Black_Measles",
+      "display_name": "Black Measles",
+      "type": "Disease"
+    },
+    "Tomato__Target_Spot": {
+      "index": 157,
+      "crop": "Tomato",
+      "standard_name": "Target_Spot",
+      "display_name": "Target Spot",
+      "type": "Disease"
+    },
+    "Rice__Healthy": {
+      "index": 124,
+      "crop": "Rice",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Pepper_bell__Healthy": {
+      "index": 112,
+      "crop": "Pepper_bell",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Onion__Caterpillar": {
+      "index": 97,
+      "crop": "Onion",
+      "standard_name": "Caterpillar",
+      "display_name": "Caterpillar",
+      "type": "Pest"
+    },
+    "Tomato__Healthy": {
+      "index": 151,
+      "crop": "Tomato",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Onion__Stemphylium_Leaf_Blight": {
+      "index": 102,
+      "crop": "Onion",
+      "standard_name": "Stemphylium_Leaf_Blight",
+      "display_name": "Stemphylium Leaf Blight",
+      "type": "Disease"
+    },
+    "Apple__Healthy": {
+      "index": 1,
+      "crop": "Apple",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Tomato__Spider_Mites_(Two_Spotted_Spider_Mite)": {
+      "index": 156,
+      "crop": "Tomato",
+      "standard_name": "Spider_Mites_(Two_Spotted_Spider_Mite)",
+      "display_name": "Spider Mites (Two Spotted Spider Mite)",
+      "type": "Pest"
+    },
+    "Tomato__Septoria_Leaf_Spot": {
+      "index": 155,
+      "crop": "Tomato",
+      "standard_name": "Septoria_Leaf_Spot",
+      "display_name": "Septoria Leaf Spot",
+      "type": "Disease"
+    },
+    "Tomato__Late_Blight": {
+      "index": 152,
+      "crop": "Tomato",
+      "standard_name": "Late_Blight",
+      "display_name": "Late Blight",
+      "type": "Disease"
+    },
+    "Tomato__Bacterial_Spot": {
+      "index": 149,
+      "crop": "Tomato",
+      "standard_name": "Bacterial_Spot",
+      "display_name": "Bacterial Spot",
+      "type": "Disease"
+    },
+    "Peach__Bacterial_Spot": {
+      "index": 109,
+      "crop": "Peach",
+      "standard_name": "Bacterial_Spot",
+      "display_name": "Bacterial Spot",
+      "type": "Disease"
+    },
+    "Sugarcane__Mosaic": {
+      "index": 139,
+      "crop": "Sugarcane",
+      "standard_name": "Mosaic",
+      "display_name": "Mosaic",
+      "type": "Disease"
+    },
+    "Sugarcane__Yellow_Leaf_Disease": {
+      "index": 142,
+      "crop": "Sugarcane",
+      "standard_name": "Yellow_Leaf_Disease",
+      "display_name": "Yellow Leaf Disease",
+      "type": "Disease"
+    },
+    "Sugarcane__Rust": {
+      "index": 141,
+      "crop": "Sugarcane",
+      "standard_name": "Rust",
+      "display_name": "Rust",
+      "type": "Disease"
+    },
+    "Sugarcane__Red_Rot": {
+      "index": 140,
+      "crop": "Sugarcane",
+      "standard_name": "Red_Rot",
+      "display_name": "Red Rot",
+      "type": "Disease"
+    },
+    "Sugarcane__Healthy": {
+      "index": 138,
+      "crop": "Sugarcane",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Tomato__Yellow_Leaf_Curl_Virus": {
+      "index": 158,
+      "crop": "Tomato",
+      "standard_name": "Yellow_Leaf_Curl_Virus",
+      "display_name": "Yellow Leaf Curl Virus",
+      "type": "Disease"
+    },
+    "Onion__Healthy": {
+      "index": 99,
+      "crop": "Onion",
+      "standard_name": "Healthy",
+      "display_name": "Healthy",
+      "type": "Healthy"
+    },
+    "Sugarcane__Bacterial_Blight": {
+      "index": 137,
+      "crop": "Sugarcane",
+      "standard_name": "Bacterial_Blight",
+      "display_name": "Bacterial Blight",
+      "type": "Disease"
+    },
+    "Grape__Black_Rot": {
+      "index": 60,
+      "crop": "Grape",
+      "standard_name": "Black_Rot",
+      "display_name": "Black Rot",
+      "type": "Disease"
+    }
+  },
+  "num_classes": 166
+}

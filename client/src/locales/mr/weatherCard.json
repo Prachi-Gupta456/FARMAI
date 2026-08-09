@@ -1,0 +1,9 @@
+{
+  "weatherCard": {
+    "live": "थेट",
+    "todayWeather": "आजचे हवामान",
+    "today": "आज",
+    "rainChance": "पावसाची शक्यता",
+    "now": "आत्ता"
+  }
+}

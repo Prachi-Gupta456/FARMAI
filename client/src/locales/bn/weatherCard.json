@@ -1,0 +1,9 @@
+{
+  "weatherCard": {
+    "live": "লাইভ",
+    "todayWeather": "আজকের আবহাওয়া",
+    "today": "আজ",
+    "rainChance": "বৃষ্টির সম্ভাবনা",
+    "now": "এখন"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "history": {
+    "title": "History",
+    "subtitle": "Your farming conversations",
+    "brand": "FarmAI",
+    "loading": "Loading your recent chats...",
+    "emptyTitle": "Start your farming journey 🌱",
+    "emptyDescription": "Ask FarmAI about crops, fertilizer, weather, diseases and smart farming advice.",
+    "startChat": "Start New Chat",
+    "deleteTitle": "Delete chat?",
+    "deleteText": "This action cannot be undone.",
+    "delete": "Delete",
+    "failedDelete": "Failed to Delete",
+    "tryAgain": "Please try again.",
+    "deleting": "Deleting..."
+  }
+}

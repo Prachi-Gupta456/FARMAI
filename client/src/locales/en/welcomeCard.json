@@ -1,0 +1,13 @@
+{
+  "chatWelcome": {
+    "title": "FarmAI",
+    "description": "Ask me anything about your farm — disease, weather, market prices, fertilizer, or government schemes. I'll connect you with the right AI expert.",
+    "suggestions": [
+      "My tomato leaves have brown spots",
+      "Should I sell my wheat today?",
+      "Will it rain this week?",
+      "How much fertilizer for mustard?",
+      "Any government scheme for me?"
+    ]
+  }
+}

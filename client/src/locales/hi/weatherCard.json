@@ -1,0 +1,9 @@
+{
+  "weatherCard": {
+    "live": "लाइव",
+    "todayWeather": "आज का मौसम",
+    "today": "आज",
+    "rainChance": "बारिश की संभावना",
+    "now": "अभी"
+  }
+}

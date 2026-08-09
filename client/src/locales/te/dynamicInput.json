@@ -1,0 +1,26 @@
+{
+  "dynamicInput": {
+    "seasonTitle": "ప్రస్తుత సీజన్",
+    "cropTitle": "మీరు ఏ పంటలు సాగు చేస్తున్నారు?",
+    "customCropPlaceholder": "పై జాబితాలో లేని పంట పేరును నమోదు చేయండి…",
+    "continue": "కొనసాగించండి",
+
+    "seasons": {
+      "kharif": "ఖరీఫ్",
+      "rabi": "రబీ",
+      "zaid": "జైద్"
+    },
+
+    "crops": {
+      "rice": "వరి",
+      "wheat": "గోధుమ",
+      "maize": "మొక్కజొన్న",
+      "cotton": "పత్తి",
+      "sugarcane": "చెరకు",
+      "potato": "బంగాళాదుంప",
+      "tomato": "టమాటా",
+      "onion": "ఉల్లిపాయ",
+      "none": "ఏదీ లేదు"
+    }
+  }
+}

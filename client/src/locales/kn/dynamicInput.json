@@ -1,0 +1,26 @@
+{
+  "dynamicInput": {
+    "seasonTitle": "ಪ್ರಸ್ತುತ ಋತು",
+    "cropTitle": "ನೀವು ಯಾವ ಬೆಳೆಗಳನ್ನು ಬೆಳೆಯುತ್ತಿದ್ದೀರಿ?",
+    "customCropPlaceholder": "ಮೇಲಿನ ಪಟ್ಟಿಯಲ್ಲಿ ಇಲ್ಲದ ಬೆಳೆ ಹೆಸರನ್ನು ಬರೆಯಿರಿ…",
+    "continue": "ಮುಂದುವರಿಸಿ",
+
+    "seasons": {
+      "kharif": "ಖರೀಫ್",
+      "rabi": "ರಬಿ",
+      "zaid": "ಜೈದ್"
+    },
+
+    "crops": {
+      "rice": "ಅಕ್ಕಿ",
+      "wheat": "ಗೋಧಿ",
+      "maize": "ಜೋಳ",
+      "cotton": "ಹತ್ತಿ",
+      "sugarcane": "ಕಬ್ಬು",
+      "potato": "ಆಲೂಗಡ್ಡೆ",
+      "tomato": "ಟೊಮೇಟೊ",
+      "onion": "ಈರುಳ್ಳಿ",
+      "none": "ಯಾವುದೂ ಇಲ್ಲ"
+    }
+  }
+}

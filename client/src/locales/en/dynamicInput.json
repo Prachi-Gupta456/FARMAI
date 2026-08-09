@@ -1,0 +1,26 @@
+{
+  "dynamicInput": {
+    "seasonTitle": "Current Season",
+    "cropTitle": "Which crops are you growing?",
+    "customCropPlaceholder": "Other crop not listed above…",
+    "continue": "Continue",
+
+    "seasons": {
+      "kharif": "Kharif",
+      "rabi": "Rabi",
+      "zaid": "Zaid"
+    },
+
+    "crops": {
+      "rice": "Rice",
+      "wheat": "Wheat",
+      "maize": "Maize",
+      "cotton": "Cotton",
+      "sugarcane": "Sugarcane",
+      "potato": "Potato",
+      "tomato": "Tomato",
+      "onion": "Onion",
+      "none": "None"
+    }
+  }
+}

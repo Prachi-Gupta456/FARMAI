@@ -1,0 +1,33 @@
+{
+  "dashboard": {
+    "greeting": "नमस्ते, {name}",
+    "subtitle": "आपका खेत आज की सलाह के लिए तैयार है",
+    "myFarm": {
+      "title": "मेरा खेत",
+      "subtitle": "स्मार्ट खेती प्रोफ़ाइल",
+      "edit": "बदलें",
+      "description": "FarmAI आपके खेत के विवरण का उपयोग करके व्यक्तिगत फसल, मौसम और खेती संबंधी सलाह देता है।",
+      "stateFallback": "राज्य",
+      "districtFallback": "जिला",
+      "soilFallback": "मिट्टी",
+      "contextActive": "FarmAI संदर्भ सक्रिय है"
+    },
+    "askFarmAI": {
+      "title": "FarmAI से पूछें",
+      "subtitle": "आवाज़ या फोटो — कम टाइपिंग",
+      "feature": "फसल, रोग और खेती संबंधी तुरंत मार्गदर्शन पाएं"
+    },
+    "recent": {
+      "title": "हाल की",
+      "viewAll": "सभी देखें",
+      "loading": "आपके हाल के सवाल लोड हो रहे हैं…",
+      "empty": "अभी तक कोई सवाल नहीं — शुरू करने के लिए ऊपर FarmAI से पूछें।"
+    },
+    "insights": {
+      "title": "एआई खेती जानकारी",
+      "subtitle": "आज के लिए व्यक्तिगत सुझाव",
+      "summaryTitle": "आज का सारांश",
+      "insightLabel": "सुझाव"
+    }
+  }
+}

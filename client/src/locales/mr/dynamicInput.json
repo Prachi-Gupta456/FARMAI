@@ -1,0 +1,26 @@
+{
+  "dynamicInput": {
+    "seasonTitle": "सध्याचा हंगाम",
+    "cropTitle": "तुम्ही कोणती पिके घेत आहात?",
+    "customCropPlaceholder": "वरील यादीत नसलेले पीक लिहा…",
+    "continue": "पुढे जा",
+
+    "seasons": {
+      "kharif": "खरीप",
+      "rabi": "रब्बी",
+      "zaid": "जायद"
+    },
+
+    "crops": {
+      "rice": "तांदूळ",
+      "wheat": "गहू",
+      "maize": "मका",
+      "cotton": "कापूस",
+      "sugarcane": "ऊस",
+      "potato": "बटाटा",
+      "tomato": "टोमॅटो",
+      "onion": "कांदा",
+      "none": "काहीही नाही"
+    }
+  }
+}

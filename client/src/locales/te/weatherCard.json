@@ -1,0 +1,9 @@
+{
+  "weatherCard": {
+    "live": "ప్రత్యక్షం",
+    "todayWeather": "ఈరోజు వాతావరణం",
+    "today": "ఈరోజు",
+    "rainChance": "వర్షం అవకాశం",
+    "now": "ఇప్పుడు"
+  }
+}
