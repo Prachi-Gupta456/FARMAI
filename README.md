@@ -11,13 +11,7 @@ The goal is simple:
 ---
 
 ## 📸 Landing Page Preview
-
-<!-- Replace the path below with your actual landing page screenshot -->
-
-![FarmAI Landing Page](./screenshots/landing-page.png)
-
-> 💡 **Add your landing page screenshot here:**
-> Create a `screenshots` folder in the project root and place your image inside it as `landing-page.png`.
+<img width="1917" height="876" alt="Screenshot 2026-08-17 235219" src="https://github.com/user-attachments/assets/ac8c6720-e151-45d8-8702-0a45a4671d0b" />
 
 ---
 
