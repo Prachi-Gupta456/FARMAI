@@ -44,4 +44,4 @@ USER appuser
 EXPOSE 7860
 
 # Root Directory = fastapi_backend, so main.py sits directly at /app/main.py
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "7860"]
+CMD uvicorn main:app --host 0.0.0.0 --port $PORT
