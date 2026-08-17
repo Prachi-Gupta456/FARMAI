@@ -1,4 +1,4 @@
-FROM python:3.11-slim
+FROM python:3.12-slim
 
 # System deps: build tools + libgl/libglib for opencv/pillow-based image models,
 # and sqlite dev libs for Chroma
